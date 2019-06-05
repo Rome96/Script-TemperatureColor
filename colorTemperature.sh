@@ -1,7 +1,7 @@
 #! /bin/bash
 
 #Instalación de redshift
-#->: sudo apt install redshift
+sudo apt install redshift
 #------------------------------------------------------
 
 # script para bajar la temperatura del color  linux 
